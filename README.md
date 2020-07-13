@@ -8,7 +8,7 @@
 
 ## Who am I?
 
-**Actually, I'm a Computer Technician student in Brazil** :nerd_face: 
+**Actually, I'm a Computer Technician and frontend student in Brazil** :nerd_face: 
 
 :robot: **I'm a participant of an robotics team** [Python-Line](https://github.com/Python-Line)
 
