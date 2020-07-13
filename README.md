@@ -2,5 +2,6 @@
 
 <!--
 **muNeves3/muNeves3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[!E-mail] (https://img.shields.io/static/v1?label=murilogrilosn@gmail.com&message=%20&color=blue&?logo=gmail&style=flat-square&logoColor=white)]
-(mailto::murilogrilosn@gmail.com)
+
+[![E-mail](http://img.shields.io/badge/-%40gmail.com-blue?logo=gmail&style=flat-square&logoColor=white)](mailto:iildaneta@gmail.com)
+
