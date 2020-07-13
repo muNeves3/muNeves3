@@ -7,6 +7,9 @@
 
 ## Who am I?
 
+
 Actually, I'm a Computer Technician student in Brazil :nerd_face: 
+
 I'm a participant of an robotics team [!Python-Line](https://github.com/Python-Line)
+
 Here, you'll find some projects that I do and content notes that I'm studying
