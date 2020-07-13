@@ -43,3 +43,6 @@
 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true">
+
+
+<img src="http://visitor-badge.glitch.me/badge?page_id=muNeves3.muNeves3&color=pink">
