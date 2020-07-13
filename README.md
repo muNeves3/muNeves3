@@ -34,7 +34,7 @@
 
 **CLIs**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-[![Heroku](https://img.shields.io/badge/-Git-black?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 
 
