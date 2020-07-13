@@ -42,6 +42,4 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-CE0AF1?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 
-
-
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true">
