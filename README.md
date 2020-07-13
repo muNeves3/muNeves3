@@ -7,9 +7,10 @@
 
 ## Who am I?
 
+**Actually, I'm a Computer Technician student in Brazil** :nerd_face: 
 
-Actually, I'm a Computer Technician student in Brazil :nerd_face: 
+:robot: **I'm a participant of an robotics team** [Python-Line](https://github.com/Python-Line)
 
-I'm a participant of an robotics team [Python-Line](https://github.com/Python-Line)
+**Here, you'll find some projects that I do and content notes that I'm studying** :bookmark_tabs:
 
-Here, you'll find some projects that I do and content notes that I'm studying
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true">
