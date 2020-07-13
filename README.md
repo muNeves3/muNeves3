@@ -7,5 +7,5 @@
 
 ## Who am I?
 
-** Actually, I'm a Computer Technician student in Brazil, 
+Actually, I'm a Computer Technician student in Brazil, 
 
