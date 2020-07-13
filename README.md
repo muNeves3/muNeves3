@@ -27,15 +27,15 @@
 **web programming**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![React](https://img.shields.io/badge/-React-E325AF?style=flat-square&logo=react&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/muNeves3/)
 
 **backend**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 **CLIs**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-[![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![Git](https://img.shields.io/badge/-Git-4BBDE8?style=flat-square&logo=git&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![Heroku](https://img.shields.io/badge/-Heroku-CE0AF1?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 
 
