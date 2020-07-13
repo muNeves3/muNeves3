@@ -31,7 +31,7 @@
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/muNeves3/)
 
 **backend**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-413D42?style=flat-square&logo=Node.js&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 **CLIs**
 [![Git](https://img.shields.io/badge/-Git-4BBDE8?style=flat-square&logo=git&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
