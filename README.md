@@ -4,7 +4,7 @@
 [![Twitter](http://img.shields.io/badge/-%40%20__muriloneves__-blue?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
 [![GitHub](http://img.shields.io/badge/muNeves3-blue?logo=github&style=flat-square&logoColor=white)](https://github.com/muNeves3)
 [![Gist](http://img.shields.io/badge/gist.github.com/muNeves3-blue?logo=github&style=flat-square&logoColor=white)](https://gist.github.com/muNeves3)
-[![WhatsApp](http://img.shields.io/badge/logo=WhatsApp&style=flat-square&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp?logo=whatsapp&style=flat-square&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
 <a href="https://www.gitshowcase.com/muneves3"><img src="https://www.gitshowcase.com/favicon-32x32.png" height=20 width=20></a>
 
 
