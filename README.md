@@ -44,7 +44,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-CE0AF1?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true))](https://github.com/muNeves3/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=muNeves3" alt="Murilo Neves" />
 
 
 <img src="http://visitor-badge.glitch.me/badge?page_id=muNeves3.muNeves3&color=pink">
