@@ -45,6 +45,3 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=muNeves3" alt="Murilo Neves" />
-
-
-<img src="http://visitor-badge.glitch.me/badge?page_id=muNeves3.muNeves3&color=pink">
