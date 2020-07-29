@@ -1,5 +1,6 @@
 ### Hi there 👋, I´m Murilo Neves
 
+**Contact :postbox:**
 [![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
 [![Twitter](http://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
 [![GitHub](http://img.shields.io/badge/Github-black?logo=github&style=flat-square&logoColor=white)](https://github.com/muNeves3)
@@ -10,13 +11,10 @@
 
 ## Who am I?
 
-**Actually, I'm a 16y Computer Technician and frontend student in Brazil** :nerd_face: 
-
+:nerd_face: **Actually, I'm a 16y Computer Technician student in Brazil**  
 :robot: **I'm a participant of an robotics team** [Python-Line](https://github.com/Python-Line)
-
-**Here, you'll find some projects that I do and content notes that I'm studying** :bookmark_tabs:
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height=25 width=25/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height=25 width=25/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=25 width=25/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=25 width=25/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height=25 width=25/> 
+:bookmark_tabs: **Here, you'll find some projects that I do and content notes that I'm studying** 
+🌱 **I'm actually studying front-end with reactJS**
 
 ## What do I know?
 
@@ -27,21 +25,10 @@
 [![Python](https://img.shields.io/badge/-Python-E4E936?style=flat-square&logo=python&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![Java](https://img.shields.io/badge/-Java-7159c1?style=flat-square&logo=Java&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
-**web programming:**
+**About web-programming:**
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![React](https://img.shields.io/badge/-React-473F49?style=flat-square&logo=react&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/muNeves3/)
-
-**backend:**
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-413D42?style=flat-square&logo=Node.js&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-
-**CLIs:**
-
-[![Git](https://img.shields.io/badge/-Git-4BBDE8?style=flat-square&logo=git&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-[![Heroku](https://img.shields.io/badge/-Heroku-CE0AF1?style=flat-square&logo=heroku&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
-
 
 <img src="https://komarev.com/ghpvc/?username=muNeves3" alt="Murilo Neves" />
