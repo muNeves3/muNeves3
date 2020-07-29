@@ -1,7 +1,7 @@
 ### Hi there 👋, I´m Murilo Neves
 
-**Contact :postbox:**
-[![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
+**Contact: :postbox:**
+  [![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
 [![Twitter](http://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
 [![GitHub](http://img.shields.io/badge/Github-black?logo=github&style=flat-square&logoColor=white)](https://github.com/muNeves3)
 [![Gist](http://img.shields.io/badge/Gist-black?logo=github&style=flat-square&logoColor=white)](https://gist.github.com/muNeves3)
