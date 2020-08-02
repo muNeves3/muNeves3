@@ -11,13 +11,13 @@
 
 ## Who am I?
 
-:nerd_face: **Actually, I'm a 16y Computer Technician student in Brazil**  
+:nerd_face: **Currently, I'm a 16y Computer Technician student in Brazil**  
 
 :robot: **I'm a participant of an robotics team** [Python-Line](https://github.com/Python-Line)
 
 :bookmark_tabs: **Here, you'll find some projects that I do and content notes that I'm studying** 
 
-:seedling: **I'm actually studying front-end with reactJS**
+:seedling: **I'm currently studying front-end with reactJS**
 
 ## What do I know?
 
