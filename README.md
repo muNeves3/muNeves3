@@ -1,7 +1,7 @@
 ### Hi there 👋, I´m Murilo Neves
 
 **Contact: :postbox:**
-  [![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
+[![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
 [![Twitter](http://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
 [![GitHub](http://img.shields.io/badge/Github-black?logo=github&style=flat-square&logoColor=white)](https://github.com/muNeves3)
 [![Gist](http://img.shields.io/badge/Gist-black?logo=github&style=flat-square&logoColor=white)](https://gist.github.com/muNeves3)
@@ -30,7 +30,7 @@
 
 **About web-programming:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logo=htmlColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![ReactJS](https://img.shields.io/badge/-React-473F49?style=flat-square&logo=react&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![NodeJS](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
