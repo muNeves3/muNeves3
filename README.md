@@ -30,7 +30,7 @@
 
 **About web-programming:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logo=htmlColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logo=html5&Color=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![ReactJS](https://img.shields.io/badge/-React-473F49?style=flat-square&logo=react&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![NodeJS](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
