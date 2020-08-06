@@ -28,6 +28,8 @@
 [![Python](https://img.shields.io/badge/-Python-E4E936?style=flat-square&logo=python&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 [![Java](https://img.shields.io/badge/-Java-7159c1?style=flat-square&logo=Java&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneves3&layout=compact&hide=python" alt="muNeves3" />
+
 **About web-programming:**
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
