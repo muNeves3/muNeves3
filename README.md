@@ -34,5 +34,5 @@
 [![NodeJS](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/muNeves3/)](https://github.com/muNeves3/)
 
 <img src="https://komarev.com/ghpvc/?username=muNeves3" alt="Murilo Neves" />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=muNeves3&show_icons=true&theme=radical" />![Anurag's github stats](
 
