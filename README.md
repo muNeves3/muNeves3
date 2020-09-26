@@ -4,7 +4,7 @@
 [![E-mail](http://img.shields.io/badge/Gmail-red?logo=Gmail&style=flat-square&logoColor=white)](mailto::murilodesouzaneves@gmail.com)
 [![Twitter](http://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&style=flat-square&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
-[![Instagram](https://img.shields.io/badge/Instagram-black?&logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/_pedroo_mello/)
+
 
 ## Who am I?
 
