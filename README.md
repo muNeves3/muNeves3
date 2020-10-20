@@ -1,8 +1,10 @@
 ### Hi there 👋, I´m Murilo Neves
 
-[![E-mail](http://img.shields.io/badge/Gmail-800BEE?logo=Gmail&style=flat-square&logoColor=white)](mailto::murilodesouzaneves@gmail.com)
-[![Twitter](http://img.shields.io/badge/Twitter-800BEE?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/_muriloneves_)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-800BEE?logo=whatsapp&style=flat-square&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
+[![E-mail](http://img.shields.io/badge/Gmail-800BEE?logo=gmail&style=for-the-badge&logoColor=white)](mailto::murilodesouzaneves@gmail.com)
+[![Twitter](http://img.shields.io/badge/Twitter-800BEE?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/_muriloneves_)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-800BEE?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
+[![Linkedin](https://img.shields.io/badge/Linkedin-800BEE?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/murilo-souza-5b672a1a0/)
+
 
 ## Who am I?
 
