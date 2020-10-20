@@ -5,6 +5,16 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-800BEE?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
 [![Linkedin](https://img.shields.io/badge/Linkedin-800BEE?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/murilo-souza-5b672a1a0/)
 
+<ul>
+    👩‍💻Experience with:
+    <li><img src="https://img.shields.io/badge/HTML5-red?logo=HTML5&style=for-the-badge&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/CSS3-blue?logo=CSS3&style=for-the-badge&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/JavaScript-yellow?logo=Javascript&style=for-the-badge&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/-blue?logo=C&style=for-the-badge&logoColor=white"/></li>
+</ul>
+
+
+
 
 ## Who am I?
 
