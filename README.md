@@ -33,4 +33,4 @@
 </ul>
 </details>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=muNeves3" alt="Trophies" />
+<img align="center" src="https://github-profile-trophy.vercel.app/margin-w=8&column=7&username=muNeves3" alt="Trophies" />
