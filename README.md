@@ -31,6 +31,6 @@
         <li><img src="https://img.shields.io/badge/NodeJS-800BEE?logo=Node.JS&style=for-the-badge&logoColor=white"/></li>
         <li><img src="https://img.shields.io/badge/React Navite-800BEE?logo=React&style=for-the-badge&logoColor=white"/></li>
 </ul>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=muNeves3" alt="Trophies" />
 </details>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=muNeves3" alt="Trophies" />
