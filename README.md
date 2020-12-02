@@ -31,3 +31,5 @@
         <li><img src="https://img.shields.io/badge/React Navite-800BEE?logo=React&style=for-the-badge&logoColor=white"/></li>
 </ul>
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?muNeves3=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
