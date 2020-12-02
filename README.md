@@ -33,4 +33,4 @@
 </ul>
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?muNeves3=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=muNeves3" alt="Trophies" />
