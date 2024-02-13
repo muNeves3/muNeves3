@@ -7,8 +7,6 @@
 
 # Who am I?
 
-:nerd_face: **Currently, I'm a 18y Computer Technician student in Brazil**  
-
 :robot: **I'm a participant of an robotics team** [Python-Line](https://github.com/Python-Line)
 
 :bookmark_tabs: **Here, you'll find some projects that I do and content notes that I'm studying** 
