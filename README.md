@@ -1,7 +1,7 @@
 ### Hi there 👋, I´m Murilo Neves
 
 [![E-mail](http://img.shields.io/badge/Gmail-800BEE?logo=gmail&style=for-the-badge&logoColor=white)](mailto::murilodesouzaneves@gmail.com)
-[![Instagram](http://img.shields.io/badge/Instagram-800BEE?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/murilo.souzaneves/)
+# [![Instagram](http://img.shields.io/badge/Instagram-800BEE?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/murilo.souzaneves/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-800BEE?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
 [![Linkedin](https://img.shields.io/badge/Linkedin-800BEE?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/murilo-souza-5b672a1a0/)
 [![RocketSeat](https://img.shields.io/badge/RocketSeat-800BEE?logo=Apache-RocketMQ&style=for-the-badge&logoColor=white)](https://app.rocketseat.com.br/me/murilo-neves-08720)
