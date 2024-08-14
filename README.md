@@ -6,7 +6,7 @@
 
 # Who am I?
 
-:robot: **I'm a member of an robotics team** [Python-Line](https://github.com/Python-Line)
+:robot: **Computer Science Student** at Universidade Estadual de Londrina - Brazil
 
 :bookmark_tabs: **Here, you'll find some projects that I do and content notes that I'm studying** 
 
