@@ -10,9 +10,7 @@
 
 📚 **Here, you'll find some projects that I do and content notes that I'm studying** 
 
-<details>
-<summary> Stack👩‍💻 </summary>
-
+## Stack👩‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-800BEE?logo=HTML5&style=for-the-badge&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-800BEE?logo=CSS3&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-800BEE?logo=Javascript&style=for-the-badge&logoColor=white)
@@ -25,6 +23,9 @@
 ![.NET](https://img.shields.io/badge/.NET-800BEE?logo=.net&style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-800BEE?logo=mongodb&style=for-the-badge&logoColor=white)
 
-</details>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiroldo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🔗 Links Acadêmicos 
+[Lattes](https://lattes.cnpq.br/7282919745620736) 📚
+
+[Orcid ID](https://orcid.org/0009-0002-7498-7322) 📚
