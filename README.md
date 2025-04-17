@@ -1,7 +1,6 @@
 ### Hi there 👋, I´m Murilo Neves
 
 [![E-mail](http://img.shields.io/badge/Gmail-800BEE?logo=gmail&style=for-the-badge&logoColor=white)](mailto:murilodesouzaneves@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-800BEE?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543988083996)
 [![Linkedin](https://img.shields.io/badge/Linkedin-800BEE?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/murilo-souza-5b672a1a0/)
 
 # Who am I?
