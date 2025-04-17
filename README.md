@@ -10,8 +10,6 @@
 
 📚 **Here, you'll find some projects that I do and content notes that I'm studying** 
 
-🌱 **I'm currently aiming the fullstack**
-
 <details>
 <summary> Stack👩‍💻 </summary>
 
