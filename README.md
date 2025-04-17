@@ -13,7 +13,7 @@
 🌱 **I'm currently aiming the fullstack**
 
 <details>
-<summary>👩‍💻 I have experience with:</summary>
+<summary> Stack👩‍💻 </summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-800BEE?logo=HTML5&style=for-the-badge&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-800BEE?logo=CSS3&style=for-the-badge&logoColor=white)
@@ -29,13 +29,4 @@
 
 </details>
 
-<details>
-<summary>📚 I'm studying:</summary>
-
-![NEXTJS](https://img.shields.io/badge/NEXTJS-800BEE?style=for-the-badge&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-800BEE?logo=docker&style=for-the-badge&logoColor=white)
-![Postgresql](https://img.shields.io/badge/Postgresql-800BEE?logo=POSTGRESql&style=for-the-badge&logoColor=white)
-
-</details>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muNeves3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiroldo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
