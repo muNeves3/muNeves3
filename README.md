@@ -24,7 +24,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiroldo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔗 Links Acadêmicos 
+## 🔗 Achademic
 [Lattes](https://lattes.cnpq.br/7282919745620736) 📚
 
 [Orcid ID](https://orcid.org/0009-0002-7498-7322) 📚
